@@ -6,7 +6,7 @@ TC-001
 
 ## Предусловие 
 Открыта страница входа 
-**https://example.com/login*
+*https://example.com/login*
 
 ## Шаги 
 1. Ввести логин: `testuser@example.com`
